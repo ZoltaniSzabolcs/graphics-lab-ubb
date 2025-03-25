@@ -88,7 +88,7 @@ Enhancements over Lab3_1:
 
 ---
 
-## Lab3_3: Rubik's Cube with Phong Shading
+## [Lab3_3](https://github.com/ZoltaniSzabolcs/Rubick-Cube-OpenGL): Rubik's Cube with Phong Shading
 Extends Lab2-2 or Lab2-3 by adding:
 - **Phong shading model.**
 - **Graphical UI for lighting adjustments:**
@@ -113,3 +113,4 @@ A separate project implementing an **aim trainer** with an **AK-47 rifle**, wher
 ### GitHub Repository:
 [UNI-AIM](https://github.com/ZoltaniSzabolcs/UNI-AIM)
 
+[Lab3_3](https://github.com/ZoltaniSzabolcs/Rubick-Cube-OpenGL)
