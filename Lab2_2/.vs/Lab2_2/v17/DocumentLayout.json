@@ -1,25 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Zoltani_Szabolcs\\Egyetem\\IV\\Grafika\\Labor\\Lab2_2\\",
+  "WorkspaceRootPath": "C:\\ZoltaniSzabolcs\\Egyetem\\IV\\Grafika\\Labor\\Lab2_2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1970B5BE-81B5-4820-AEBF-D173ABA9B010}|Lab2_2\\Lab2_2.csproj|c:\\zoltani_szabolcs\\egyetem\\iv\\grafika\\labor\\lab2_2\\lab2_2\\glcube.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1970B5BE-81B5-4820-AEBF-D173ABA9B010}|Lab2_2\\Lab2_2.csproj|solutionrelative:lab2_2\\glcube.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1970B5BE-81B5-4820-AEBF-D173ABA9B010}|Lab2_2\\Lab2_2.csproj|c:\\zoltani_szabolcs\\egyetem\\iv\\grafika\\labor\\lab2_2\\lab2_2\\cubearrangementmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1970B5BE-81B5-4820-AEBF-D173ABA9B010}|Lab2_2\\Lab2_2.csproj|solutionrelative:lab2_2\\cubearrangementmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1970B5BE-81B5-4820-AEBF-D173ABA9B010}|Lab2_2\\Lab2_2.csproj|c:\\zoltani_szabolcs\\egyetem\\iv\\grafika\\labor\\lab2_2\\lab2_2\\cameradescriptor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1970B5BE-81B5-4820-AEBF-D173ABA9B010}|Lab2_2\\Lab2_2.csproj|solutionrelative:lab2_2\\cameradescriptor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1970B5BE-81B5-4820-AEBF-D173ABA9B010}|Lab2_2\\Lab2_2.csproj|c:\\zoltani_szabolcs\\egyetem\\iv\\grafika\\labor\\lab2_2\\lab2_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1970B5BE-81B5-4820-AEBF-D173ABA9B010}|Lab2_2\\Lab2_2.csproj|c:\\zoltaniszabolcs\\egyetem\\iv\\grafika\\labor\\lab2_2\\lab2_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1970B5BE-81B5-4820-AEBF-D173ABA9B010}|Lab2_2\\Lab2_2.csproj|solutionrelative:lab2_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Zoltani_Szabolcs\\Egyetem\\IV\\Grafika\\Labor\\Lab2_3P\\Szeminarium1_24_02_17_2\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1970B5BE-81B5-4820-AEBF-D173ABA9B010}|Lab2_2\\Lab2_2.csproj|c:\\zoltaniszabolcs\\egyetem\\iv\\grafika\\labor\\lab2_2\\lab2_2\\glcube.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1970B5BE-81B5-4820-AEBF-D173ABA9B010}|Lab2_2\\Lab2_2.csproj|solutionrelative:lab2_2\\glcube.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1970B5BE-81B5-4820-AEBF-D173ABA9B010}|Lab2_2\\Lab2_2.csproj|c:\\zoltaniszabolcs\\egyetem\\iv\\grafika\\labor\\lab2_2\\lab2_2\\cubearrangementmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1970B5BE-81B5-4820-AEBF-D173ABA9B010}|Lab2_2\\Lab2_2.csproj|solutionrelative:lab2_2\\cubearrangementmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1970B5BE-81B5-4820-AEBF-D173ABA9B010}|Lab2_2\\Lab2_2.csproj|c:\\zoltaniszabolcs\\egyetem\\iv\\grafika\\labor\\lab2_2\\lab2_2\\cameradescriptor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1970B5BE-81B5-4820-AEBF-D173ABA9B010}|Lab2_2\\Lab2_2.csproj|solutionrelative:lab2_2\\cameradescriptor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -29,93 +29,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CubeArrangementModel.cs",
-              "DocumentMoniker": "C:\\Zoltani_Szabolcs\\Egyetem\\IV\\Grafika\\Labor\\Lab2_2\\Lab2_2\\CubeArrangementModel.cs",
-              "RelativeDocumentMoniker": "Lab2_2\\CubeArrangementModel.cs",
-              "ToolTip": "C:\\Zoltani_Szabolcs\\Egyetem\\IV\\Grafika\\Labor\\Lab2_2\\Lab2_2\\CubeArrangementModel.cs",
-              "RelativeToolTip": "Lab2_2\\CubeArrangementModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T15:36:32.119Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "GlCube.cs",
-              "DocumentMoniker": "C:\\Zoltani_Szabolcs\\Egyetem\\IV\\Grafika\\Labor\\Lab2_2\\Lab2_2\\GlCube.cs",
-              "RelativeDocumentMoniker": "Lab2_2\\GlCube.cs",
-              "ToolTip": "C:\\Zoltani_Szabolcs\\Egyetem\\IV\\Grafika\\Labor\\Lab2_2\\Lab2_2\\GlCube.cs",
-              "RelativeToolTip": "Lab2_2\\GlCube.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAAwAAAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T15:36:28.237Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CameraDescriptor.cs",
-              "DocumentMoniker": "C:\\Zoltani_Szabolcs\\Egyetem\\IV\\Grafika\\Labor\\Lab2_2\\Lab2_2\\CameraDescriptor.cs",
-              "RelativeDocumentMoniker": "Lab2_2\\CameraDescriptor.cs",
-              "ToolTip": "C:\\Zoltani_Szabolcs\\Egyetem\\IV\\Grafika\\Labor\\Lab2_2\\Lab2_2\\CameraDescriptor.cs",
-              "RelativeToolTip": "Lab2_2\\CameraDescriptor.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T15:36:18.325Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Zoltani_Szabolcs\\Egyetem\\IV\\Grafika\\Labor\\Lab2_2\\Lab2_2\\Program.cs",
-              "RelativeDocumentMoniker": "Lab2_2\\Program.cs",
-              "ToolTip": "C:\\Zoltani_Szabolcs\\Egyetem\\IV\\Grafika\\Labor\\Lab2_2\\Lab2_2\\Program.cs",
-              "RelativeToolTip": "Lab2_2\\Program.cs",
+              "Title": "CubeArrangementModel.cs",
+              "DocumentMoniker": "C:\\ZoltaniSzabolcs\\Egyetem\\IV\\Grafika\\Labor\\Lab2_2\\Lab2_2\\CubeArrangementModel.cs",
+              "RelativeDocumentMoniker": "Lab2_2\\CubeArrangementModel.cs",
+              "ToolTip": "C:\\ZoltaniSzabolcs\\Egyetem\\IV\\Grafika\\Labor\\Lab2_2\\Lab2_2\\CubeArrangementModel.cs",
+              "RelativeToolTip": "Lab2_2\\CubeArrangementModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T15:34:32.638Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "Orientation": 0,
-      "VerticalTabListWidth": 256,
-      "FloatingWindowState": {
-        "Id": "5d762cbe-b467-4b7f-baf0-c2fdbf3eb49b",
-        "Display": 0,
-        "X": -115,
-        "Y": 117,
-        "Width": 2114,
-        "Height": 1030,
-        "WindowState": 0
-      },
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
+              "WhenOpened": "2024-03-25T15:36:32.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GlCube.cs",
+              "DocumentMoniker": "C:\\ZoltaniSzabolcs\\Egyetem\\IV\\Grafika\\Labor\\Lab2_2\\Lab2_2\\GlCube.cs",
+              "RelativeDocumentMoniker": "Lab2_2\\GlCube.cs",
+              "ToolTip": "C:\\ZoltaniSzabolcs\\Egyetem\\IV\\Grafika\\Labor\\Lab2_2\\Lab2_2\\GlCube.cs",
+              "RelativeToolTip": "Lab2_2\\GlCube.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwAAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T15:36:28.237Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "CameraDescriptor.cs",
+              "DocumentMoniker": "C:\\ZoltaniSzabolcs\\Egyetem\\IV\\Grafika\\Labor\\Lab2_2\\Lab2_2\\CameraDescriptor.cs",
+              "RelativeDocumentMoniker": "Lab2_2\\CameraDescriptor.cs",
+              "ToolTip": "C:\\ZoltaniSzabolcs\\Egyetem\\IV\\Grafika\\Labor\\Lab2_2\\Lab2_2\\CameraDescriptor.cs",
+              "RelativeToolTip": "Lab2_2\\CameraDescriptor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T15:36:18.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ZoltaniSzabolcs\\Egyetem\\IV\\Grafika\\Labor\\Lab2_2\\Lab2_2\\Program.cs",
+              "RelativeDocumentMoniker": "Lab2_2\\Program.cs",
+              "ToolTip": "C:\\ZoltaniSzabolcs\\Egyetem\\IV\\Grafika\\Labor\\Lab2_2\\Lab2_2\\Program.cs",
+              "RelativeToolTip": "Lab2_2\\Program.cs",
+              "ViewState": "AQIAAIsAAAAAAAAAAAAkwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T15:34:32.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Zoltani_Szabolcs\\Egyetem\\IV\\Grafika\\Labor\\Lab2_3P\\Szeminarium1_24_02_17_2\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Lab2_3P\\Szeminarium1_24_02_17_2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Zoltani_Szabolcs\\Egyetem\\IV\\Grafika\\Labor\\Lab2_3P\\Szeminarium1_24_02_17_2\\Program.cs",
               "ToolTip": "C:\\Zoltani_Szabolcs\\Egyetem\\IV\\Grafika\\Labor\\Lab2_3P\\Szeminarium1_24_02_17_2\\Program.cs",
-              "RelativeToolTip": "..\\Lab2_3P\\Szeminarium1_24_02_17_2\\Program.cs",
-              "ViewState": "AQIAAJQFAAAAAAAAAAAQwLQFAAA4AAAA",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Zoltani_Szabolcs\\Egyetem\\IV\\Grafika\\Labor\\Lab2_3P\\Szeminarium1_24_02_17_2\\Program.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-07T19:51:34.859Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-07T19:51:34.859Z"
             }
           ]
         }

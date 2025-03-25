@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Zoltani_Szabolcs\\Egyetem\\IV\\Grafika\\Labor\\Lab1_3P\\",
+  "WorkspaceRootPath": "C:\\ZoltaniSzabolcs\\Egyetem\\IV\\Grafika\\Labor\\Lab1_3P\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CB26ACF9-16C9-42B5-8794-76AD7956E6D5}|Lab1_3P\\Lab1_3P.csproj|c:\\zoltani_szabolcs\\egyetem\\iv\\grafika\\labor\\lab1_3p\\lab1_3p\\l1_3_zsim2317.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CB26ACF9-16C9-42B5-8794-76AD7956E6D5}|Lab1_3P\\Lab1_3P.csproj|c:\\zoltaniszabolcs\\egyetem\\iv\\grafika\\labor\\lab1_3p\\lab1_3p\\l1_3_zsim2317.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CB26ACF9-16C9-42B5-8794-76AD7956E6D5}|Lab1_3P\\Lab1_3P.csproj|solutionrelative:lab1_3p\\l1_3_zsim2317.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "L1_3_zsim2317.cs",
-              "DocumentMoniker": "C:\\Zoltani_Szabolcs\\Egyetem\\IV\\Grafika\\Labor\\Lab1_3P\\Lab1_3P\\L1_3_zsim2317.cs",
+              "DocumentMoniker": "C:\\ZoltaniSzabolcs\\Egyetem\\IV\\Grafika\\Labor\\Lab1_3P\\Lab1_3P\\L1_3_zsim2317.cs",
               "RelativeDocumentMoniker": "Lab1_3P\\L1_3_zsim2317.cs",
-              "ToolTip": "C:\\Zoltani_Szabolcs\\Egyetem\\IV\\Grafika\\Labor\\Lab1_3P\\Lab1_3P\\L1_3_zsim2317.cs",
+              "ToolTip": "C:\\ZoltaniSzabolcs\\Egyetem\\IV\\Grafika\\Labor\\Lab1_3P\\Lab1_3P\\L1_3_zsim2317.cs",
               "RelativeToolTip": "Lab1_3P\\L1_3_zsim2317.cs",
-              "ViewState": "AQIAAIQAAAAAAAAAAAAWwIoAAAAuAAAA",
+              "ViewState": "AQIAAIQAAAAAAAAAAAAWwJgAAABEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-05T17:01:07.848Z",
               "EditorCaption": ""

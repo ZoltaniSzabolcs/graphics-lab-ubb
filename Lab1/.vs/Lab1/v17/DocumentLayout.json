@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Zoltani_Szabolcs\\Egyetem\\IV\\Grafika\\Labor\\Lab1\\",
+  "WorkspaceRootPath": "C:\\ZoltaniSzabolcs\\Egyetem\\IV\\Grafika\\Labor\\Lab1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8521ABB1-C689-4EBF-A705-E0884EC5F9C2}|Lab1\\Lab1.csproj|c:\\zoltani_szabolcs\\egyetem\\iv\\grafika\\labor\\lab1\\lab1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8521ABB1-C689-4EBF-A705-E0884EC5F9C2}|Lab1\\Lab1.csproj|c:\\zoltaniszabolcs\\egyetem\\iv\\grafika\\labor\\lab1\\lab1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8521ABB1-C689-4EBF-A705-E0884EC5F9C2}|Lab1\\Lab1.csproj|solutionrelative:lab1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,17 +14,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Zoltani_Szabolcs\\Egyetem\\IV\\Grafika\\Labor\\Lab1\\Lab1\\Program.cs",
+              "DocumentMoniker": "C:\\ZoltaniSzabolcs\\Egyetem\\IV\\Grafika\\Labor\\Lab1\\Lab1\\Program.cs",
               "RelativeDocumentMoniker": "Lab1\\Program.cs",
-              "ToolTip": "C:\\Zoltani_Szabolcs\\Egyetem\\IV\\Grafika\\Labor\\Lab1\\Lab1\\Program.cs",
+              "ToolTip": "C:\\ZoltaniSzabolcs\\Egyetem\\IV\\Grafika\\Labor\\Lab1\\Lab1\\Program.cs",
               "RelativeToolTip": "Lab1\\Program.cs",
-              "ViewState": "AQIAAHkAAAAAAAAAAAAAAIIAAAAMAAAA",
+              "ViewState": "AQIAAHMAAAAAAAAAAAAuwIcAAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-05T14:12:34.507Z",
               "EditorCaption": ""
